@@ -3,7 +3,7 @@
     <img
       src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/132.svg"
       alt="132svg"
-      class="brightness-0 h-[200px]"
+      class="brightness-0 h-[200px] fade-in"
     />
   </section>
 </template>
